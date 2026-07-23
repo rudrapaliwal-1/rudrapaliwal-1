@@ -12,8 +12,7 @@ Engineering Student<br><br>Building Products that create Real Impacts..<br><br>
 ![](https://streak-stats.demolab.com/?user=rudrapaliwal-1&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rudrapaliwal-1&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rudrapaliwal-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
